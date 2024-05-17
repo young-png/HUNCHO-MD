@@ -5,7 +5,7 @@
 
 
 
-const { france } = require('../framework/france');
+const { france } = require('../framework/france')
 
 // Set a riddle list with questions and answers
 const devinettes = [
