@@ -19,7 +19,7 @@ RUN npm install --legacy-peer-deps
 
 COPY . .
 
-EXPOSE 500
+EXPOSE 5000
 
 CMD ["node", "ibrahim.js"]
 
