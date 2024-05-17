@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MDV2",
+  "name":"HUNCHO-MDV2",
   "description":"bot whatsapp développé by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "repository":"https://github.com/Keithkeizzah/HUNCHO-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
