@@ -1,8 +1,8 @@
 {
   "name":"HUNCHO-MDV2",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "description":"bot whatsapp développé by Keith Keizzah",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+  "logo":"https://telegra.ph/file/835c3a335c8e2585898fc.jpg",
   "repository":"https://github.com/Keithkeizzah/HUNCHO-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑩𝑴𝑾  𝑴𝑫",
+      "value":"𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+      "value":"https://telegra.ph/file/835c3a335c8e2585898fc.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "𝐊𝐞𝐢𝐭𝐡 𝐊𝐞𝐢𝐳𝐳𝐚𝐡"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "254748387615"
   },
     "WARN_COUNT":
   {
