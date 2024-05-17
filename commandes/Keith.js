@@ -4,9 +4,9 @@ const { france } = require("../framework/france");
 france({ nomCom: "ibrahim", reaction: "🧒", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = 'Yes you called me whats up Ok anyway support me by following my channel and subscribing on my youtube channel 🙏 \n\n ' + "║❒ 𝙒𝘼𝘾𝙃𝘼𝙉𝙉𝙀𝙇 https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y";
-    let d = '                                     ║❒ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 https://www.youtube.com/@ibrahimaitech';
+    let d = '                                     ║❒ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 https://www.youtube.com/@keithkeizzah';
     let varmess = z + d;
-    var mp4 = 'https://telegra.ph/file/dec033e457813cd2ff2e3.mp4';
+    var mp4 = 'https://telegra.ph/file/08f740224ed39233f92cb.mp4';
     await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
     //console.log("montest")
 });
