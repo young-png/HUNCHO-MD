@@ -19,11 +19,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://keith-app-session-6d1313c4f8e5.herokuapp.com/pair)***
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://keithsessiongenerator-2086623d174d.herokuapp.com//pair)***
 
 
   
-  ***[`TAP HERE TO SCAN QR`](https://keith-app-session-6d1313c4f8e5.herokuapp.com/qr)***
+  ***[`TAP HERE TO SCAN QR`](https://keithsessiongenerator-2086623d174d.herokuapp.com//qr)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -94,7 +94,7 @@ HOW TO REACH THE OWNER?
 
 
 Contributions to *HUNCHO-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## 
+## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br/> <div align="center">
 [![github](https://github.com/github.png?size=100)](https://github.com/keithkeizzah)
