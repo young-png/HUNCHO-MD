@@ -29,14 +29,14 @@ france({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `*BMW-MD SONG'S*\n\n*Title:* ${videos[0].title}
+         caption : `*HUNCHO-MD SONG'S*\n\n*Title:* ${videos[0].title}
          
 *Duration:* ${videos[0].timestamp}
 *Song Url:* ${videos[0].url}
 
 
 
-*_Made by Ibrahim Adams._*`
+*_Made by Keith Keizzah._*`
        }
 
       
@@ -103,13 +103,13 @@ france({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*BMW-MD VIDEO'S*\n\n*Title :* ${Element.title}
+        caption: `*HUNCHO-MD VIDEO'S*\n\n*Title :* ${Element.title}
 *Duration :* ${Element.timestamp}
 *Video Url:* ${Element.url}
 
 
 
-*Made by Ibrahim Adams*\n\n`
+*Made by Keith Keizzah*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
