@@ -1,4 +1,4 @@
-const {france }= require ('../framework/france') ;
+const {france }= require ('../framework/france') 
 const {addstickcmd, deleteCmd, getCmdById, inStickCmd , getAllStickCmds} = require('../bdd/stickcmd') ;
 
 
