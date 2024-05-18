@@ -94,8 +94,11 @@ HOW TO REACH THE OWNER?
 
 
 Contributions to *HUNCHO-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## THANKS TO
-[GOD]
+## 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<br/> <div align="center">
+[![github](https://github.com/github.png?size=100)](https://github.com/keithkeizzah)
+
 
 
 ## License
