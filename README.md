@@ -50,7 +50,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/Keithkeizzah/HUNCHO-MD/fork)
+1, <a href="https://github.com/Keithkeizzah/HUNCHO-MD/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
 2, TAP ON KEITH TECH APP DOWN THERE
 
