@@ -19,11 +19,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://keithsessiongenerator-2086623d174d.herokuapp.com//pair)***
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://keithtech-session-bd5cfaec090b.herokuapp.com//pair)***
 
 
   
-  ***[`TAP HERE TO SCAN QR`](https://keithsessiongenerator-2086623d174d.herokuapp.com//qr)***
+  ***[`TAP HERE TO SCAN QR`](https://keithtech-session-bd5cfaec090b.herokuapp.com//qr)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -77,7 +77,7 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://keithsessiongenerator-2086623d174d.herokuapp.com/">
+  ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="220" height="38.45"/></a></p>***
 
 
