@@ -130,7 +130,7 @@ france({
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*HUNCHO-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "༆𝐈𝐍 𝐎𝐑𝐃𝐄𝐑 𝐎𝐅 𝐇𝐔𝐍𝐂𝐇𝐎-𝐌𝐃༄", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
