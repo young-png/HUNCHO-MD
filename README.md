@@ -62,8 +62,9 @@
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Keith Tech App..
 
 ## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃
-
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/HUNCHO-MD&template=https://github.com/keithkeizzah/HUNCHO-MD.git)
+<h1 align="center">
+ 
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/HUNCHO-MD&template=https://github.com/keithkeizzah/HUNCHO-MD.git)***
 
 <br>
 
@@ -72,16 +73,11 @@
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Keithkeizzah/HUNCHO-MD)***
-
-
-
-
-
+***༒𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐈𝐒 𝐓𝐀𝐁 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐊𝐄𝐈𝐓𝐇 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐀𝐏𝐏😊😊༒***
 
 
   ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="220" height="38.45"/></a></p>***
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="300" height="38.45"/></a></p>***
 
 
 
