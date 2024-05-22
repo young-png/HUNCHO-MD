@@ -5,7 +5,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗛𝗨𝗡𝗖𝗛𝗢+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗞𝗘𝗜𝗧𝗛)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+H̑̈Ȗ̈N̑̈C̑̈H̑̈Ȏ̈+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+K̑̈Ȇ̈Ȋ̈T̑̈H̑̈K̑̈Ȇ̈Ȋ̈Z̑̈Z̑̈Ȃ̈H̑̈)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
