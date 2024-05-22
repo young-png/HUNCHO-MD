@@ -23,16 +23,15 @@
 
 
   <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
+<a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
+## Su
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 
+
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+  
 
 HOW TO REACH THE OWNER? 
  
