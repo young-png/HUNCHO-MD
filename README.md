@@ -98,7 +98,14 @@ Contributions to *HUNCHO-MD* are welcome! If you have ideas for new features, im
 <br/> <div align="center">
 [![github](https://github.com/github.png?size=100)](https://github.com/keithkeizzah)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+**𝙈𝙔 𝙎𝙏𝘼𝙏𝙎**
+[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&theme=radical)](https://github.com/keithkeizzah)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## License
 
