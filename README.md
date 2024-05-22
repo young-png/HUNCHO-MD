@@ -22,7 +22,7 @@
   <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
-  <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/pair"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
