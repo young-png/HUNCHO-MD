@@ -114,5 +114,12 @@ The *HUNCHO-MD* is released under the [MIT License](https://opensource.org/licen
 
 Enjoy the diverse features of the *HUNCHO-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Keith Tech
+
+### Credits to:
+- [Bro France King](https://github.com/franceking1)
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎:
+(𝐀𝐋𝐏𝐇𝐀)✞𝐆𝐎𝐃✞
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
