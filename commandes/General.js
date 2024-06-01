@@ -59,7 +59,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254710772666" },
+      { nom: "Keith Tech", numero: "254793299159" },
       { nom: "᚛keithkeizzah᚜", numero: "254748387615" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
@@ -100,7 +100,7 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254748387615?text=hello_Keith_md_am_interested_in😂`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47`},{quoted :ms})
 
 })
  
