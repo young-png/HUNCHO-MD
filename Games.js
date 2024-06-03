@@ -25,7 +25,7 @@ const traduire = require('../framework/traduction')
 france({
     nomCom: "chifumi",
     categorie: "Games",
-    reaction: "📺"
+    reaction: "📳"
   },
   async (origineMessage, zk, commandeOptions) => {
     const { repondre, ms, auteurMessage, auteurMsgRepondu, msgRepondu , arg , idBot } = commandeOptions;
