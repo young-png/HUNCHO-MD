@@ -40,6 +40,6 @@ france({ nomCom: 'ping',
     const { start} = new Date().getTime()
     return repondre('*Pong!!*\n ```' + 2000 + '``` *ms*') 
     const { end } = new Date().getTime()
-    await zok.sendMessage('*𝐏𝐨𝐧𝐠»»»*\n ```' + (end - start) + '``` *ms*')
+    await zok.sendMessage('*Pong!*\n ```' + (end - start) + '``` *ms*')
   }
 )
